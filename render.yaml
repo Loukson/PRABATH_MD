@@ -4,5 +4,5 @@ services:
     env: node
     region: frankfurt
     plan: free
-    dockerfilePath: Dockerfile
+    startCommand: Dockerfile
     autoDeploy: true
