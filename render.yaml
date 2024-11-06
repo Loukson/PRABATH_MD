@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: BLADE-MD-V2
-    env: docker
+    name: PRABATH-MD
+    env: node
     region: frankfurt
     plan: free
     dockerfilePath: Dockerfile
